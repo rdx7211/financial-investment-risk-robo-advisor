@@ -1,0 +1,21 @@
+- AGE: This are the ages of the respondents. 
+
+- EDUCATION_LEVEL: There are four education categories.
+
+- MARITAL_STATUS: There are two categories to represent marital status.
+
+- OCCUPATION_CATEGORY: This represents occupation category.From unemployed to managerial level/senior level 
+
+- NO_OF_KIDS: Number of children.
+
+- SPENDING_LEVEL: This is how individual’s spend their income ranging from 1 for most spending to 5 for least spending.
+
+- INCOME: This represents the income of the individual.
+
+- SPENDING_VS_INCOME: This represents the individual’s spending versus income, split into three categories. 
+
+- NETWORTH: This represents networth of the respomdents.
+
+- RISK_LEVEL: This represents the willingness to take risk on a scale of 1 to 4, where 1 represents the highest level of willingness to take risk.
+
+-  RISK_TOLERANCE: This is the predicted variable for this case study.
