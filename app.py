@@ -235,6 +235,3 @@ if st.button("SUBMIT"):
 # 4. After training finishes, run your Streamlit app:
 # bash
 # streamlit run app.py
-# Copy code
-# Copy code
-# 6) Copy code
