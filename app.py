@@ -223,7 +223,7 @@ if st.button("SUBMIT"):
             col2.markdown("##### Portfolio Value of $100 Over Time")
             col2.line_chart(portfolio_value)
 
-# Steps to fix everything
+# Steps to run
 # 1. Open a terminal in your project folder.
 # 2. Activate your environment:
 # bash
